@@ -1,4 +1,4 @@
-package com.chen.learn.springboot.example;
+package com.chen.learn.springboot.start;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
